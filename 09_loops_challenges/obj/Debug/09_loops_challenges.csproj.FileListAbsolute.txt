@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\bin\Debug\09_loops_challenges.exe.config
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\bin\Debug\09_loops_challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\bin\Debug\09_loops_challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\obj\Debug\09_loops_challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\obj\Debug\09_loops_challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects_2\CSharpPreWork\09_loops_challenges\obj\Debug\09_loops_challenges.pdb
